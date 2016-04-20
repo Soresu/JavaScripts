@@ -1,6 +1,4 @@
-## JavaScripts
-
-### JavaScriptek telepítése
+## JavaScriptek telepítése
  1. Telepítsd a Greasemonkey(Firefox plugin) vagy Tampermonkey(Chrome plugin) kiegészítőt.
  2. Miután újraindítod a böngészőt, látni fogod az ikonját a jobb felső sarokban.
  3. Kattints az "Új parancsfájl" gombra.
