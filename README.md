@@ -8,9 +8,3 @@
   * Engedélyezett oldalak: A script "include" sorában található url (pl: https://ncore.cc/torrents.php*)
   * A többi nem számít
  4. Az újonnan megnyílt ablakban látsz egy sablon, írd felül az innen letöltött kóddal.
-
-### Ncore
-###### Gyors Letöltés
-   Közvetlen letöltési link a torrent adatainak megnyitása nélkül. Hasznos sorozatrészek letöltésénél.
-
-![alt text](https://raw.githubusercontent.com/Soresu/Others/master/Images/JavaScripts/Ncore/NcoreGYL.png "Példa 1")
